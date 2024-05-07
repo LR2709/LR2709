@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @LR2709
-- 👀 I’m interested in learning devops
-- 🌱 I have recently started learning GIT
+- 👋 Hi, I’m Lavanya
+- 👀 I’m interested in learning new things continuously
+- 🌱
 - 💞️ I’m looking to collaborate with people having similar interest 
 - 📫 How to reach me ...
 
