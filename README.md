@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Lavanya
-- 👀 I’m interested in learning new things continuously
+- 👀 I’m interested in learning new things
 - 🌱
 - 💞️ I’m looking to collaborate with people having similar interest 
 - 📫 How to reach me ...
